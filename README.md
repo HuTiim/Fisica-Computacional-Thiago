@@ -1,1 +1,1 @@
-# Fisica-Computacional-Thiago
+# Física-Computacional-Thiago
