@@ -6,7 +6,7 @@
 
 Para essa estimativa ser obtida definimos determinadas condições como o raio de uma circunferência, onde todos os pontos menor ou igual ao nosso raio seria um parâmetro para a nossa estimativa, sendo estimativa de $\pi = (4*pontosdentro)/Número de iteracoes$.  
 
-A implementação desse método foi feito de duas formas. A primeira sendo um código lento com a utilização de loops e ifs, Já a segunda maneira sendo o código rápido utilizamos as funções vetoriais da biblioteca numpy assim otimizando o nosso programa.  
+A implementação desse método foi feito de duas formas. A primeira sendo um código lento com a utilização de loops e ifs, Já a segunda maneira sendo o código rápido, utilizamos as funções vetoriais da biblioteca numpy assim otimizando o nosso programa.  
   
 Assim geramos visualmente a performance de cada algoritmo.
 
